@@ -23,7 +23,7 @@
 	<key>NSCameraUsageDescription</key>
 	<string>$(PRODUCT_NAME) needs the camera to record video</string>
 	<key>NSMicrophoneUsageDescription</key>
-	<string></string>
+	<string>$(PRODUCT_NAME) needs the camera to record audio</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
